@@ -1,7 +1,7 @@
 ## Olá, tudo bem? 👋
 ### Meu nome é Gustavo Carvalho Luchetti, seja bem vindo(a)!
 
-- 🌱 Bom, atualmente estou estudando JavaScript, React Native e API's.
+- 🌱 Bom, atualmente estou estudando JavaScript e Ruby on Rails :)))))
 - 📫 Você consegue me encontrar:
 
 <div> 
